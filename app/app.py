@@ -1,6 +1,8 @@
 from pymongo import MongoClient
 from dotenv import load_dotenv
 import os
+import plotly.express as px
+import pandas as pd
 
 
 # Cargar variables de entorno
