@@ -1,6 +1,8 @@
 # Cuadro_de_Mando_Comunidad_Madrid
+
 ## Descripción 
 Dashboard web con un mapa de calor que muestra las zonas de mayor flujo peatonal en la Comunidad de Madrid y utiliza MongoDB como fuente de datos.
+
 ## Estructura de carpetas del proyecto
 
 ├── app/                        # Código de la aplicación principal
@@ -33,3 +35,6 @@ Dashboard web con un mapa de calor que muestra las zonas de mayor flujo peatonal
 ├── LICENSE                     # Licencia del proyecto
 └── README.md                   # Información general del repositorio
 
+## Futuras mejoras 
+
+- Actualizar la BBDD de manera automática con la API de madrid.es
