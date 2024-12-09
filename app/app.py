@@ -24,3 +24,4 @@ except Exception as e:
 # Consulta para obtener datos
 datos = list(collection.find())
 print(datos)
+
